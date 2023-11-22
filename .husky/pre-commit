@@ -20,3 +20,4 @@
 #echo 'Husky.Net is awesome!'
 
 echo 'Welcome to our project'
+dotnet husky run --group pre-commit
